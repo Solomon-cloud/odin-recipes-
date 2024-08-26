@@ -1,0 +1,21 @@
+body {
+    background-color: #FFD7C4;
+}
+
+h1, li {
+     font-size: 64px;
+     text-align: center;
+     font-weight: 800;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: #FF9874;
+}
+
+ul li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #9DBDFF;
+}
+
+li {
+    list-style-type: none;
+}
